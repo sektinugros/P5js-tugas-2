@@ -1,4 +1,3 @@
-snip code ini
 
 # Data Diri
 
